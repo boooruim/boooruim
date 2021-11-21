@@ -17,7 +17,7 @@
 
 ### Experience
 
-- 🎓 Seokeong University , ComputerEngineering (2018.03~ )
+- 🎓 Seokeong University , Computer Engineering (2018.03~ )
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=boooruim" height="200">
 
