@@ -10,9 +10,9 @@
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xorms86">
 
-- 🌱 I’m currently learning `React`, `Algorithm`, `TypeScript`
-- 🥇 I majored in ComputerEngineering
-- 🚅 My hometown is Gimhae, Gyeongsangnam-do in Korea
+- 🌱 I’m currently learning `Algorithm`
+- 🥇 I majored in Computer Engineering
+- 🚅 I live in Incheon, Gyeong-do in Korea
 
 ### Experience
 
@@ -22,7 +22,9 @@
 
 ### What I Like
 
-- 🔵 Game
+- Game
+- Scuba Diving
+- Problem Solving
 
 <!--
 **boooruim/boooruim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
