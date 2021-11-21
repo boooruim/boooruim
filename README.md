@@ -1,43 +1,17 @@
-### Hi there, I'm TaeGeun! 👋
+<h1 align="center">Hi 👋, I'm TaeGeun!</h1>
+<h3 align="center">A passionate undergraduate from Seoul.</h3>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fboooruim&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/boooruim)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:a48760419@gmail.com) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/booore_ruim) 
-[![Tistory Badge](https://img.shields.io/badge/Blog-555263?style=flat&logoColor=white)]()
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=boooreruim&label=Profile%20views&color=0e75b6&style=flat-square" alt="boooreruim" /> </p>
 
-  
-### Who Am I
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boooreruim" alt="boooreruim" /></a> </p>
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xorms86">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/이태근" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="이태근" height="30" width="40" /></a>
+<a href="https://instagram.com/booore_ruim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="booore_ruim" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/buuuuu_ruim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="buuuuu_ruim" height="30" width="40" /></a>
+<a href="https://discord.gg/#1323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1323" height="30" width="40" /></a>
+</p>
 
-- 🌱 I’m currently learning `Algorithm`
-- 🥇 I majored in Computer Engineering
-- 🚅 I live in Incheon, Gyeong-do in Korea
-
-### Experience
-
-- 🎓 Seokeong University , ComputerEngineering (2018.03~ )
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=boooruim" height="200">
-
-
-### What I Like
-
-- Game
-- Scuba Diving
-- Problem Solving
-
-<!--
-**boooruim/boooruim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
