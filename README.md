@@ -1,6 +1,14 @@
 ### Hi 👋, I'm TaeGeun!
 A passionate undergraduate from Seoul.
 
+### Who Am I
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xorms86">
+
+- 🌱 I’m currently learning `Algorithm`
+- 🥇 I majored in Computer Engineering
+- 🚅 I live in Incheon, Gyeong-do in Korea
+- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boooreruim&label=Profile%20views&color=0e75b6&style=flat-square" alt="boooreruim" /> </p>
 
 <h3 align="left">Connect with me:</h3>
