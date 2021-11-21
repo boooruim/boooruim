@@ -20,7 +20,7 @@ ___
 
 - 🎓 Seokeong University , Computer Engineering (2018.03~ )
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xorms86" height = "300" width="500">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xorms86" height = "200" width="500">
 
 ### What I Enjoy
 
