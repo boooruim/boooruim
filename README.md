@@ -8,7 +8,7 @@ ___
 <a href="https://discord.gg/#1323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1323" height="30" width="40" /></a>
 </p>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=boooruim" width="400" >
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=boooruim" >
 
 ### Who Am I
 
@@ -20,7 +20,7 @@ ___
 
 - 🎓 Seokeong University , Computer Engineering (2018.03~ )
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xorms86" width="400">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xorms86" width="500">
 
 ### What I Enjoy
 
