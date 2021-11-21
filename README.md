@@ -15,6 +15,9 @@ A passionate undergraduate from Seoul.
 
 ### What I Like
 
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=boooruim" height="200">
+
 - Game
 - Scuba Diving
 - Problem Solving
