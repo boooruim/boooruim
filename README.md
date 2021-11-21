@@ -1,4 +1,4 @@
-Hi 👋, I'm TaeGeun!</h1>
+### Hi 👋, I'm TaeGeun!</h1>
 <h3 align="center">A passionate undergraduate from Seoul.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boooreruim&label=Profile%20views&color=0e75b6&style=flat-square" alt="boooreruim" /> </p>
