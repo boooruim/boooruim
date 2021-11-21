@@ -7,7 +7,17 @@ A passionate undergraduate from Seoul.
 
 - 🌱 I’m currently learning `Algorithm`
 - 🥇 I majored in Computer Engineering
-- 🚅 I live in Incheon, Gyeong-do in Korea
+- 🚅 I live in Incheon, Gyeonggi-do in Korea
+
+### Experience
+
+- 🎓 Seokeong University , ComputerEngineering (2018.03~ )
+
+### What I Like
+
+- Game
+- Scuba Diving
+- Problem Solving
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boooreruim&label=Profile%20views&color=0e75b6&style=flat-square" alt="boooreruim" /> </p>
 
