@@ -12,7 +12,7 @@
 ### Who Am I
 
 - 🌱 I’m currently learning `Algorithm`
-- 🥇 I majored in 'Computer Engineering'
+- 🥇 I majored in `Computer Engineering`
 - 🚅 I live in Incheon, Gyeonggi-do in Korea
 
 ### Experience
