@@ -12,23 +12,18 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
 
 - 🌱 I’m currently learning `React`, `Algorithm`, `TypeScript`
-- 🥇 I majored in Economics
+- 🥇 I majored in ComputerEngineering
 - 🚅 My hometown is Gimhae, Gyeongsangnam-do in Korea
 
 ### Experience
 
-- 🎓 Hanyang University , Economics(ERICA) (2014.03~ )
-- 💊 ESTsoft, Sales team Intern (2018.07~2018.12)
-- 🌍 Kobe University, Economics(Exchange) (2019.04~2019.09)
+- 🎓 Seokeong University , ComputerEngineering (2018.03~ )
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=haesoo9410" height="165">
 
 ### What I Like
 
-- 📺 Drama
 - 🔵 Game
-- 🍕 Pizza
-
 
 <!--
 **boooruim/boooruim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
