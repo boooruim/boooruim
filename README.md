@@ -20,8 +20,10 @@ ___
 - 🎓 Seokeong University , Computer Engineering (2018.03~ )
 
 <p align = 'right'> "BaekJoon Online Judge" </p>
+<p>
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xorms86" width="400">
-
+<h3> Hi </h3>
+</p>
 
 ### What I Enjoy
 
