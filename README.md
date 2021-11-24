@@ -22,7 +22,7 @@ ___
 <p align = 'right'> "BaekJoon Online Judge" </p>
 <p>
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=xorms86" width="400">
-<h3> Hi </h3>
+<h3 align = 'right'> Hi </h3>
 </p>
 
 ### What I Enjoy
