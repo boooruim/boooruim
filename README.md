@@ -28,7 +28,7 @@ ___
 - 🤿 Scuba Diving
 - 👨‍💻 Problem Solving
 
--  [![Youtube Badge](https://img.shields.io/badge/ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/watch?v=QpUaZW7tgmg)](https://www.youtube.com/c/kyleschool)
+-  [![Youtube Badge](https://img.shields.io/badge/#FF0000?style=flat-square&logo=youtube&link=https://www.youtube.com/watch?v=QpUaZW7tgmg)](https://www.youtube.com/watch?v=QpUaZW7tgmg)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
