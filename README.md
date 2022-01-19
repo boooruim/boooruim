@@ -12,7 +12,6 @@ ___
 
 - 😺 I’m Cat butler for `DungE` and `BBiBBi`
 - 🥇 I majored in `Computer Engineering`
-- 🌱 I’m currently learning `Algorithm`
 - 🚅 I live in Incheon, Gyeonggi-do in Korea
 
 
