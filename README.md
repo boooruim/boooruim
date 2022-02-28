@@ -25,7 +25,6 @@ ___
 
 - 🎮 Game
 - 🤿 Scuba Diving
-- 👨‍💻 Problem Solving
 -  [![Youtube Badge](https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&link=https://www.youtube.com/watch?v=QpUaZW7tgmg)](https://www.youtube.com/watch?v=QpUaZW7tgmg) Favorite Video
 
 <h3 align="left">Languages and Tools:</h3>
