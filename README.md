@@ -10,7 +10,7 @@ ___
 
 ### Who Am I
 
-- 😺 I’m Cat butler for `DungE` and `BBiBBi`
+- 😺 I’m Cat butler for `doong-i` and `bbi-bbi`
 - 🥇 I majored in `Computer Engineering`
 - 🚅 I live in Incheon, Gyeonggi-do in Korea
 
