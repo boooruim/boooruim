@@ -3,7 +3,7 @@ ___
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=boooreruim&label=Profile%20views&color=0e75b6&style=flat-square" alt="boooreruim" /> 
-<a href="https://codeforces.com/profile/buuuuu_ruim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="buuuuu_ruim" height="30" width="40" /></a>
+
 
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=boooruim" >
